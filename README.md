@@ -1,7 +1,7 @@
 # Veridion-POC-simulation-challenge
 Data cleaning and Entity Resolution POC for a manufacturing procurement digitalization project.
 
-**1. Project Overview**
+**1. Project Overview**  
 
 This project is part of a digitalization journey for a manufacturing company’s Procurement department. The main objective was to clean, resolve, and analyze a cluttered supplier database to enable a cost-saving strategy and explore supply chain sustainability.
 
